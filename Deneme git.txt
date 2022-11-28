@@ -3,3 +3,4 @@ git Github 2.gün ikinci deneme
 git Github 2.gün ucuncu deneme
 git Github 2.gün SEZGİN BRANCH'I deneme
 git Github 2.gün MASTER BRANCH'I deneme
+git Github 2.gün SEZGİN BRANCH'I ikinci deneme
